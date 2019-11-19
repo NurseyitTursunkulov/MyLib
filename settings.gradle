@@ -1,0 +1,3 @@
+rootProject.name='Jit'
+include ':app'
+include ':mylibrary'
